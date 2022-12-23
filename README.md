@@ -1,6 +1,6 @@
-# Portfolio
+# My Personal Portfolio
 ## Description
-A start to my personal portfolio built to showcase my upcoming work.
+A start to my portfolio built to showcase my upcoming work.
 
 ## Deployed page
 ![Deployment Image](Assets/images/pagescreenshot.png)
